@@ -1,9 +1,6 @@
 ## Olá! Seja bem vindo ao meu GitHub.
 ### Meu nome é Gabriela.
 
-
-**gabiiwestphal/gabiiwestphal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 📚 Estudante de engenharia de software na UDESC.
 - 📚 Estou estudando JAVA e C#.
 - 😄 Pronouns: ela/dela.
