@@ -1,12 +1,13 @@
-## Olá! Seja bem vindo ao meu GitHub.
-### Meu nome é Gabriela.
+<h1 align="left">Gabriela Westphal Córdova</h1>
+  </br>
 
 - 📚 Estudante de engenharia de software na UDESC.
 - 📚 Estou estudando JAVA e C#.
-- 😄 Pronouns: ela/dela.
 
-<div class="tenor-gif-embed" data-postid="6108221" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221">Mad Typing GIF</a>from <a href="https://tenor.com/search/mad-gifs">Mad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
--->
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 
 ### Estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
@@ -18,6 +19,7 @@
 <a href="https://www.linkedin.com/in/Gabriela Westphal Córdova" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/gabii_westphal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <div>
+  </br>
 
   
  <div>
