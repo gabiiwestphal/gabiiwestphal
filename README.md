@@ -2,6 +2,7 @@
   </br>
 
 - 📚 Estudante de engenharia de software na UDESC.
+- 📚 Estudante da Academia do Programador.
 - 📚 Estou estudando JAVA e C#.
 
 <p align="center">
