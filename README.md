@@ -1,7 +1,7 @@
 <h1 align="left">Gabriela Westphal Córdova</h1>
   </br>
 
-- 📚 Estudante de engenharia de software na UDESC.
+- 📚 Estudante de engenharia de software UDESC.
 - 📚 Estudante da Academia do Programador.
 
 <p align="center">
