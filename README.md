@@ -31,9 +31,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
 
 
   
- <div>
+<div>
 <a href="https://github.com/gabiiwestphal">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiiwestphal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabiiwestphal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
   
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiiwestphal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
  <div>
