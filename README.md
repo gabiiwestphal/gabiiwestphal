@@ -12,7 +12,9 @@
 <p align="center">
 </p>
 
-### About me
+ <br>
+
+### About me:
 
 * 🧠 Estudante de engenharia de software na UDESC.
 
