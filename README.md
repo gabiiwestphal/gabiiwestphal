@@ -1,32 +1,40 @@
 <h1 align="left">Gabriela Westphal Córdova</h1>
   </br>
-
-- 📚 Estudante de engenharia de software UDESC.
-
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  
+  
+  <p align="left">
+<a href="https://www.linkedin.com/in/gabriela-westphal/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="gabiwestphal@hotmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
 </p>
 
 
-### Estou aprendendo:
+
+<img align="right" height="200px" width="400px" alt="GIF" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" />
+<p align="center">
+</p>
+
+### About me
+
+* 🧠 Estudante de engenharia de software na UDESC.
+
+* ✨ Entusiasta em tecnologia!
+
+* 🔥 I really love the thrill of making what I want possible!
+
+* 💻 Sou estagiária na [Ibm](https://www.ibm.com/br-pt).
+ 
+ <br>
+
+### Linguagens:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="40" height="40" /> <img                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
 
 
-### Contatos:
-
-<div>
-<a href="https://www.linkedin.com/in/gabriela-westphal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/gabii_westphal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<div>
-  </br>
-
   
  <div>
 <a href="https://github.com/gabiiwestphal">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiiwestphal&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiiwestphal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiiwestphal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
+  
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiiwestphal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+ <div>
    
-   https://github-readme-stats.vercel.app/api?username=[your username]
