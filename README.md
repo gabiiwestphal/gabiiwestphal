@@ -28,3 +28,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.s
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiiwestphal&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiiwestphal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+   
+   https://github-readme-stats.vercel.app/api?username=[your username]
