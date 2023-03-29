@@ -7,8 +7,7 @@
 </p>
 
 
-
-<img align="right" height="200px" width="400px" alt="GIF" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" />
+<img align="right" height="250px" width="450px" alt="GIF" src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" />
 <p align="center">
 </p>
 
