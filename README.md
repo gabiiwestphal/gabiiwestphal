@@ -13,7 +13,7 @@
 </p>
 
 
-### About me:
+### Sobre mim:
 
 * 🧠 Estudante de engenharia de software na UDESC.
 
@@ -22,6 +22,8 @@
 * 🔥 I really love the thrill of making what I want possible!
 
 * 💻 Sou estagiária na [Ibm](https://www.ibm.com/br-pt).
+
+* 📫 Como chegar até mim: gabiwestphal@hotmail.com
  
  <br>
 
