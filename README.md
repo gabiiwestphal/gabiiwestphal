@@ -22,7 +22,7 @@
 
 * 🔥 Eu realmente amo a emoção de tornar o que eu quero possível!
 
-* 💻 Sou estagiária na [Ibm](https://www.ibm.com/br-pt).
+* 💻 Desenvolvedora backend [Ibm](https://www.ibm.com/br-pt).
 
 * 📫 Como chegar até mim: gabiwestphal@hotmail.com
  
